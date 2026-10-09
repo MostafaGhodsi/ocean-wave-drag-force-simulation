@@ -64,7 +64,7 @@ Time-domain numerical simulation of wave-induced drag forces on a submerged sphe
    ```
 2. Run the main simulation:
   ```bash
-   `python src/main_simulation.py`
+   `python src/solveby Mostafa Ghodsi.py`
    ```
 ---
 
