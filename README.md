@@ -43,3 +43,32 @@ Time-domain numerical simulation of wave-induced drag forces on a submerged sphe
 ---
 
 ## Repository Structure
+
+
+```text
+├── src/
+│   ├── airyLib.py              # Wave kinematics & Bretschneider spectrum solver
+│   └── main_simulation.py      # Time-series generator & plot exporter
+├── results/                    # Generated high-resolution visualization plots
+├── Ocean_Waves_Drag_Forces_Report.pdf
+└── README.md
+```
+
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   `git clone https://github.com/MostafaGhodsi/ocean-wave-drag-force-simulation.git`
+   `cd ocean-wave-drag-force-simulation`
+   ```
+2. Run the main simulation:
+  ```bash
+   `python src/main_simulation.py`
+   ```
+---
+
+## Authors
+
+- **Mostafa Ghodsi** - *University of Rostock*
+- Team Contributors: Fatemeh Moradimoradpour, Mahsa Zareibagher, Shayan Mohammadsharif
