@@ -7,7 +7,7 @@ Time-domain numerical simulation of wave-induced drag forces on a submerged sphe
 ## Documentation & LaTeX Report
 
 * 📄 **Overleaf Project:** [View Live LaTeX Source & Document](https://www.overleaf.com/read/trpmjsvzjrym#34167e)
-* 📥 **Project Report:** [Download Report PDF](./Ocean_Waves_Drag_Forces_Report.pdf)
+* 📥 **Project Report:** [Download Report PDF](./Ocean_Waves_Christoph.pdf)
 
 > **Abstract:** This study investigates the horizontal wave-induced drag force acting on a fixed spherical camera housing mounted beneath a stationary offshore platform. The prescribed fully developed wind-generated sea ($H_s = 0.98\text{ m}$, $T_p = 10\text{ s}$) was represented using a Bretschneider spectrum discretized into 100 harmonic components. Subsurface velocity and drag forces were evaluated across zero-phase, random-phase, and period-based phase configurations.
 
