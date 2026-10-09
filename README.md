@@ -35,7 +35,7 @@ Time-domain numerical simulation of wave-induced drag forces on a submerged sphe
 ![Surface Elevation Comparison](03_surface_elevation_comparison.png)
 
 ### 3. Horizontal Fluid Velocity Comparison
-![Horizontal Velocity Comparison](r04_velocity_comparison.png)
+![Horizontal Velocity Comparison](04_velocity_comparison.png)
 
 ### 4. Hydrodynamic Drag Force Comparison
 ![Drag Force Comparison](05_drag_force_comparison.png)
