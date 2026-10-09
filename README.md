@@ -29,16 +29,16 @@ Time-domain numerical simulation of wave-induced drag forces on a submerged sphe
 ## Key Results & Figures
 
 ### 1. Bretschneider Energy Spectrum
-![Bretschneider Spectrum](results/01_spectrum_and_amplitudes.png)
+![Bretschneider Spectrum](01_spectrum_and_amplitudes.png)
 
 ### 2. Surface Elevation Comparison
-![Surface Elevation Comparison](results/03_surface_elevation_comparison.png)
+![Surface Elevation Comparison](03_surface_elevation_comparison.png)
 
 ### 3. Horizontal Fluid Velocity Comparison
-![Horizontal Velocity Comparison](results/04_velocity_comparison.png)
+![Horizontal Velocity Comparison](r04_velocity_comparison.png)
 
 ### 4. Hydrodynamic Drag Force Comparison
-![Drag Force Comparison](results/05_drag_force_comparison.png)
+![Drag Force Comparison](05_drag_force_comparison.png)
 
 ---
 
